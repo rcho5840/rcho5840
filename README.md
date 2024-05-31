@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Goldfish Lifespan Predictor**
+ 🔭 I’m currently working on **Computer Vision-based Industrial Anomaly Detection**
  
  🌱 I’m currently learning **Python, Java, Matlab**
 
@@ -20,7 +20,7 @@
 
 📫 Get in touch at randycho64@gmail.com
 
-⚡ Fun fact **I'm a huge fisherman, and this hobby provides inspiration for a lot of my projects**
+⚡ Fun fact **I'm planning on pursuing a career in R&D**
 
  </div>
  
